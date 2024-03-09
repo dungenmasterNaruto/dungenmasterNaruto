@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dungenmasterNaruto
-- 👀 I’m interested in Kali Linux & PenTesting
+- 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning Python 3.10
 - 📫 How to reach me : dungenmastergogo@gmail.com
 
